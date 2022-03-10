@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RobolexMonsters/static/css/main.2df8e5e4.css",
+    "main.js": "/RobolexMonsters/static/js/main.9f67ba3d.js",
+    "static/js/787.18c69f69.chunk.js": "/RobolexMonsters/static/js/787.18c69f69.chunk.js",
+    "index.html": "/RobolexMonsters/index.html",
+    "main.2df8e5e4.css.map": "/RobolexMonsters/static/css/main.2df8e5e4.css.map",
+    "main.9f67ba3d.js.map": "/RobolexMonsters/static/js/main.9f67ba3d.js.map",
+    "787.18c69f69.chunk.js.map": "/RobolexMonsters/static/js/787.18c69f69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df8e5e4.css",
+    "static/js/main.9f67ba3d.js"
+  ]
+}
