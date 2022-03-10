@@ -2,7 +2,7 @@
   "name": "myappp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pankaj1980patel.github.io",
+  "homepage": "https://pankaj1980patel.github.io/RobolexMonsters",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
